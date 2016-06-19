@@ -1,0 +1,18 @@
+Interview between Kaci Aitchinson and Brian 'Kpoptosis' Herren
+TI3
+
+K: That's right! We're going to introduce him right now, we're going backstage and we want to show you a little bit behind the scenes about how all those numbers and all of those fun stats that you're doing popping up - and you're also known as Brian, right?
+B: Yes, my first name is Brian and I kinda like to go by that, but y'know, it's fine.
+K: So Kpoptosis slash Brian, right?
+B: Yes.
+K: Walk us through what you're doing during the games.
+Well basically what I have up now is a website that basically pulls from the data that Valve puts up through their API, it's basically just game data, and a really awesome guy called Martin puts together this website called DatDota, and like here we have all the heroes who have been picked at The International, how many times they've been picked, wins, loss, other data - but what we can also do is more in-depth, so we just watched Orange play and we've seen how Xtinct has been really good on Visage. So we can just go in here, select Visage, we can do down here, and go to Xtinct, if I can actually find him, there he is. And at The International. And I can look and I can see how his performance has been here - when it actually loads up - but basically I take this data, and I see how it works in the game, like I see things that are interesting, I see trends, and I like to put them in and I like to let the viewers know 'hey this is cool, this is interesting.' Because a lot of commentators will say, 'Oh, he's been really good on Visage so far', and so it's really good to be able to go, and look, and point and... [pause, laughs] it's not current loading, BUT this is how I would basically do it, when it would be working, and it would come back and tell me his numbers, and I would relay that to the viewers.
+K: So you're basically having to listen to the game, watch the game, decide what's interesting, what is necessary, and where to put it.
+B: Yeah. So a lot of people said, 'Oh, man, that job must be easy, you just pull up things on the Internet', and it's like - no, I have to really be paying attention, I have a headset on, like cocked on my head half the time, so I can listen, and know what the commentators are saying, I want to be able to drop the stats at a time when the commentators are talking about what's going on, so it's relevant, so... It takes a lot of work, because it's kinda like digging through hay to find needles. You've gotta know what to look for, because otherwise you'll just get buried in the data that's there.
+K: You're getting a little bit of help, tell us what's going on over here as well. [camera pans across]
+B: So I've got a three-man crew working here, basically when I research the stats and get 'em up, these guys help me out and they relay it. We have a nice little Skype going where I'll type in the statistic I want to use and they'll translate it over to their native languages - in Chinese, in Russian - with my friends Robin and [inaudible - Inmei?] here who've been doing that. And they do more than that - they've been watching through games, like when we've had those Dendi Pudge games [Na'Vi Dendi, who at the time was legendary on a hero called Pudge] they've been keeping track of the hooks for me. Um. So it's been a team effort over here.
+K: You must be exhausted!
+B: I am exhausted! [laughs] I've done every game for the tournament so far, and like half the matches of the prelims as well. But I've been set up here, and it's been a lot of fun, and I've really enjoyed it.
+K: I'm sure everyone appreciates what you're doing, thanks for showing us what you do here.
+B: No problem!
+K: Back to you guys.
